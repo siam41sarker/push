@@ -1,0 +1,25 @@
+*{
+    font-family: sans-serif;
+}
+body{
+    background-color: #ddd;
+}
+.sorted{
+    width:650px;
+    height:600px;
+    background-color: blueviolet;
+    border: 1px solid red;
+    margin:30px auto;
+    border-radius: 35px;
+    box-shadow: 10px 10px 10px rgba(0,0,0,0.8);
+}
+h1{
+    text-align: center;
+    font-style: italic;
+    color:red;
+}
+p{
+    text-align: justify;
+    padding:20px;
+    color:rgb(166, 210, 76)
+}
